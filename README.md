@@ -1,0 +1,2 @@
+# school-bash
+Bash project
